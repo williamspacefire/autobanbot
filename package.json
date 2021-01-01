@@ -1,0 +1,25 @@
+{
+  "name": "autobanbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "sqlite3": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamspacefire/autobanbot.git"
+  },
+  "keywords": [],
+  "author": "William Spacefire",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/williamspacefire/autobanbot/issues"
+  },
+  "homepage": "https://github.com/williamspacefire/autobanbot#readme"
+}
